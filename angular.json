@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "Parent-Child"
+  "defaultProject": "Parent-Child",
+  "cli": {
+    "analytics": "c4cd8747-68c1-4d95-989a-46a0fb100c6e"
+  }
 }
